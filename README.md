@@ -1,6 +1,6 @@
 <h1>- 👋 Hi, I’m @JigneshGediya </h1>
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Full Stack Java Web Development.
 - 📫 How to reach me https://www.linkedin.com/in/jigneshkumar-gediya-399427222
 
 <!---
